@@ -18,3 +18,8 @@ hr {
     width: 5%;
 }
 
+.circular {
+    border-radius: 100%;
+}
+
+
