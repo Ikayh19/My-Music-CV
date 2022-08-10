@@ -1,0 +1,96 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+    background: #344a72;
+    padding-top: 40px;
+    font-family: sans-serif;
+    line-height: 1.8;
+}
+
+a {
+    text-decoration: ;
+}
+
+button {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    color: #666;
+}
+
+input {
+    display: block;
+    width: 100%;
+    border: 1px #ddd solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+
+#container{
+    max-width: 22%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#form-wrapper {
+    background: white;
+    padding: 15px 25px; 
+    color: #333;
+}
+
+#container-footer {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+#container-footer a {
+    color: #49c1a2;
+}
+
+#form-wrapper-footer {
+    font-size: 13px;
+    text-align: center;
+}
+
+.inline-link-text {
+    display: inline;
+}
+
+#sign-up-btn {
+    background: #49c1a2;
+    margin-top:20px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 10px;
+    cursor:pointer
+
+}
+#sign-up-btn:hover {
+    background: #37a08e;
+}
+
+#form-wrapper-header {
+    text-align: center;
+}
+#form-wrapper-header h3 {
+    margin: 0;
+}
+#form-wrapper-header p {
+    margin: 0;
+}
+
+
+
+
+
